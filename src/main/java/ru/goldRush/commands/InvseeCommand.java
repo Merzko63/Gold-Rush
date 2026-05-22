@@ -12,7 +12,6 @@ public class InvseeCommand implements org.bukkit.command.CommandExecutor {
             return true;
         }
 
-        // Только модеры или OP
         if (!p.isOp() && !GoldRush.getInstance().getMods().isMod(p)) {
             p.sendMessage("§cУ вас нет прав!");
             return true;
