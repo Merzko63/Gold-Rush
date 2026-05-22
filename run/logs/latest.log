@@ -1,0 +1,9 @@
+[14:43:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.3+9-LTS; Eclipse Adoptium Temurin-21.0.3+9) on Windows 11 10.0 (amd64)
+[14:43:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) for Minecraft 1.21.4
+[14:43:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:43:27] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'E:\Plugins\GoldRush\build\libs\GoldRush-1.0.jar'...
+[14:43:28] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'E:\Plugins\GoldRush\build\libs\GoldRush-1.0.jar' in 392ms.
+[14:43:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[14:43:28] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - GoldRush (1.0)
+[14:43:32] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.

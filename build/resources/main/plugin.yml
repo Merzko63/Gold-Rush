@@ -1,0 +1,50 @@
+name: GoldRush
+version: 1.0
+main: ru.goldRush.GoldRush
+api-version: 1.21
+
+commands:
+  prefix:
+    aliases: [ pr ]
+  invsee:
+    aliases: [ see ]
+  vanish:
+    aliases: [ v, hide ]
+  rating:
+    aliases: [ r ]
+  register:
+    aliases: [reg]
+  login:
+    aliases: [l]
+  changepassword:
+    aliases: [chpass]
+  balance:
+    aliases: [bal]
+  premiumgive:
+    aliases: [ pgive ]
+  auction:
+    aliases: [ auc ]
+  battlepass:
+    aliases: [ bp, pass ]
+  pay:
+  admin:
+  mod:
+  ip:
+  setjail:
+  jail:
+  unjail:
+  jailinfo:
+  quest:
+permissions:
+  goldrush.admin:
+    description: Полный доступ
+    default: op
+  goldrush.moderator:
+    description: Модераторские права
+    default: false
+  goldrush.premium:
+    description: Премиум доступ
+    default: false
+  goldrush.rating:
+    description: Изменение рейтинга
+    default: false
